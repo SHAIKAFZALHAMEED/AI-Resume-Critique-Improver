@@ -34,8 +34,8 @@ Built using Python, Streamlit, and Mistral 7B running locally via Ollama — no 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/ai-resume-critiquer.git
-cd ai-resume-critiquer
+git clone https://github.com/SHAIKAFZALHAMEED/AI-Resume-Critique-Improver.git
+cd AI-Resume-Critique-Improver.git
 ```
 
 2. **(Optional) Create virtual environment:**
